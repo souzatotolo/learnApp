@@ -1,0 +1,85 @@
+.App {
+  background: #FFF;
+  width: 100vw;
+  height: 100vh;
+  border-radius: 20px;
+}
+.App-header{
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+}
+
+.App-header ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin-left: 200px;
+}
+.App-header a {
+  text-decoration: none;
+  color: #a2a2a2;
+  padding: 20px;  
+  transition: .4s ease-in-out;
+}
+.App-header a:hover {
+  border-bottom: 1px solid;
+  color: #000;
+}
+.headerBtn{
+  margin-right: 50px;
+  height: 50px;
+  border-style: none;
+  background-color: rgb(218, 73, 16);
+  opacity: .8;
+  color: #fff;
+  font-weight: bold;
+  width: 10vw;
+  border-radius: 10px;
+  margin-top: 10px;
+  transition: .4s ease;
+}
+.headerBtn:hover{
+  background:  rgb(243, 105, 50);
+  opacity: 1;
+  position: relative;
+  cursor: pointer;
+  width: 15vw;
+}
+
+.headerBtb:focus{
+  border-style: none;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100vw;
+}
+.containerText{
+  align-self: flex-start;
+  
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.containerText h1 {
+  font-size: 4em;
+  line-height: 70px;
+  color:rgb(58, 58, 58);
+}
+.containerText p {
+  color: #a2a2a2;
+  font-size: 1.3em;
+}
+
+.learnImg{
+  width: 60vw;
+  display: flex;
+  opacity: .8;
+  transition: .2s ease-in-out;
+  
+}
+.learnImg:hover{
+  opacity: 1;
+  
+}
