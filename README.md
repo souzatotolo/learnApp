@@ -19,4 +19,7 @@ Simulação de um Web App com finalidade de aprendizado :books:
     <tr>
       <td>CSS3</td>
     </tr>
+   <tr>
+      <td>react-anchor-link</td>
+    </tr>
 </table>
