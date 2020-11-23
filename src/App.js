@@ -2,10 +2,13 @@ import React from 'react';
 import './App.css';
 import Header from './components/header'
 import learn from './assets/learn.png'
+import About from './pages/about'
+import Classes from './pages/classes'
+import Contact from './pages/contact'
 
 function App() {
   return (
-    <div className="App">
+    <div id= "home"className="App">
     <Header/>
     
 
@@ -17,7 +20,11 @@ function App() {
     </div>
     <img src={learn} alt="learn" className="learnImg"/>    
 
-    </main>    
+    </main>
+    <About/>
+    <Classes/>
+    <Contact/>
+
     </div>
 
 
