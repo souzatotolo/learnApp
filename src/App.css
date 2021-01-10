@@ -87,3 +87,6 @@
   opacity: 1;
   
 }
+.formBtn:hover {
+  background-color: #fff;
+}
