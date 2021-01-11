@@ -4,7 +4,11 @@ Web App ainda em desenvolvimento utilizando ReactJS
 
 <img alt="HealthApp" src="src/assets/LearnApp.gif" width="600px" />
 
-<div></div>
+
+
+
+
+
 <img alt="HealthApp" src="src/assets/Learnform.png" width="600px" />
 
 
