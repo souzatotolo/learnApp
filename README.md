@@ -25,6 +25,12 @@ Aplicativo Web que simula um site de aprendizado :books:
 <tr>
 <td>react-anchor-link</td>
 </tr>
+ <tr>
+<td>react-icons</td>
+</tr>
+ <tr>
+<td>@material-ui</td>
+</tr>
 </table>
 
 #Desenvolvido por github.com/souzatotolo
