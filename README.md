@@ -1,6 +1,6 @@
 # LearnApp
 
-Web App ainda em desenvolvimento utilizando ReactJS
+Projeto pessoal, Web App ainda em desenvolvimento utilizando ReactJS
 
 <img alt="HealthApp" src="src/assets/LearnApp.gif" width="600px" />
 <br>
