@@ -1,5 +1,5 @@
 # LearnApp
-<div align= "center">
+
 (projeto próprio) Web App ainda em desenvolvimento utilizando ReactJS.
 
 <img alt="HealthApp" src="src/assets/LearnApp.gif" width="600px" />
@@ -19,7 +19,7 @@
 <br>
 <br>
 <img alt="HealthApp" src="src/assets/Learnform.png" width="600px" />
-</div>
+
 ##:iphone: Tecnologias
 
 <table>
