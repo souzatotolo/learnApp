@@ -11,7 +11,7 @@ Projeto pessoal, Web App ainda em desenvolvimento utilizando ReactJS
 
 
 # O que e?
-Aplicativo Web que simula um site de aprendizado :books:
+(projeto próprio) Aplicativo Web de um site de aprendizado, para conectar professor e aluno, onde existe a possibilidade de se entrar em contato, através de um formulário ligado direto a um e-mail principal. :books:
 
 ##:iphone: Tecnologias
 
