@@ -5,13 +5,14 @@
 
 # O que e?
 (projeto próprio) Aplicativo Web de um site de aprendizado, para conectar professor e aluno, onde existe a possibilidade de se entrar em contato, através de um formulário ligado direto a um e-mail principal. :books:
-
+<div align= "center">
 <img alt="HealthApp" src="src/assets/LearnApp.gif" width="600px" />
 <br>
 <br>
 <br>
 <br>
 <img alt="HealthApp" src="src/assets/Learnform.png" width="600px" />
+ </div>
 
 ##:iphone: Tecnologias
 
